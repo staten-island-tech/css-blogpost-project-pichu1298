@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(57, 152, 100);
+}
+.BLOCKS{
+    text-align: center;
+    width: 500px;
+    height: 500px;
+}
