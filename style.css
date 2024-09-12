@@ -4,8 +4,22 @@ h1{
 body{
     background-color: rgb(57, 152, 100);
 }
-.BLOCKS{
-    text-align: center;
+.Blog{
+    margin: 10% auto;
     width: 500px;
     height: 500px;
+    background-color: rgb(255, 255, 255)
+}
+#Image{
+    height: 50%;
+    display: block;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+p{
+    text-align: center;
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
